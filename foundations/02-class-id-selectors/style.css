@@ -1,0 +1,19 @@
+
+.odd {
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.Font-Size{
+    font-size: 24px;
+}
+
+#Two{
+    color:blue;
+    font-size:36px;
+}
+
+#Four{
+    background-color: lightgreen;
+    font-weight:bold;
+}
